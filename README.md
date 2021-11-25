@@ -1,6 +1,6 @@
-# Homework 2
+# Homework 3
  
-The homework is due on Thursday the 18th of November at 4:00 pm. 
+The homework is due on Thursday the 2nd of December at 4:00 pm. 
 
 The topics that you will be assessed on are:
 
