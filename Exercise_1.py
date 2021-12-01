@@ -7,3 +7,4 @@ Provide examples to showcase that the functions works.
 
 Weight: 1
 '''
+imort numpy as np
